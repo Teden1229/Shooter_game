@@ -72,4 +72,5 @@ while run:
     enemy.reset()
     display.update()
     time.delay(50)
+    праовавпваипоповпдтавориовтпдватопрвлтлатпо
 
